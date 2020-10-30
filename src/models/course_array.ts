@@ -1,11 +1,11 @@
 import { fromURL, VEvent } from "node-ical";
-import { Course } from "./course";
+import Course from "./course";
 
 /**
  * Représente un ensemble de cours avec des opérations spécifiques tels que le
  *  tri et la limitation de résultat.
  */
-export class CourseArray {
+export default class CourseArray {
 
     // --- Attribut ---
 

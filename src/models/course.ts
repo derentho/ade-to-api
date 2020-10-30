@@ -2,7 +2,7 @@
 /**
  * Représente un cours dans l'emploi du temps.
  */
-export interface Course {
+export default interface Course {
 
   /**
    * La description du cours, de la forme :
