@@ -1,6 +1,6 @@
 import express from "express";
 import * as config from "./config.json";
-import { CourseArray } from "./course_array";
+import { CourseArray } from "./models/course_array";
 
 const app = express();
 
