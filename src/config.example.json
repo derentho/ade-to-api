@@ -1,4 +1,0 @@
-{
-  "port": 8080,
-  "source": "http://adecampus.univ-rouen.fr/jsp/custom/modules/plannings/anonymous_cal.jsp?resources={{ rid }}&projectId=0&calType=ical&nbWeeks=52"
-}
